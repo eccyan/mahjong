@@ -1,8 +1,8 @@
 package main
 
 import (
-	"eccyan.com/mahjong/lib"
 	"fmt"
+	"github.com/eccyan/mahjong/lib"
 	"github.com/fwhappy/mahjong/wall"
 )
 
